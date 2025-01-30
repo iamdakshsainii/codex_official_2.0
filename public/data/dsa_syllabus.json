@@ -1,0 +1,163 @@
+{
+      "courseTitle": "Data Structures and Algorithms",
+      "description": "A comprehensive course covering fundamental data structures and algorithms.",
+      "topics": [
+        {
+          "title": "Introduction to Data Structures and Algorithms",
+          "content": "Basic concepts and importance of data structures and algorithms.",
+          "subtopics": [
+            { "title": "Data Structures", "content": "Definition and types of data structures." },
+            { "title": "Algorithms", "content": "Definition and characteristics of algorithms." }
+          ]
+        },
+        {
+          "title": "Arrays",
+          "content": "Arrays and their properties.",
+          "subtopics": [
+            { "title": "Basic Operations", "content": "Insertion, deletion, searching, etc." },
+            { "title": "Multi-dimensional Arrays", "content": "Arrays with multiple dimensions." }
+          ]
+        },
+        {
+          "title": "Linked Lists",
+          "content": "Linked lists and their types.",
+          "subtopics": [
+            { "title": "Singly Linked List", "content": "Basic linked list structure." },
+            { "title": "Doubly Linked List", "content": "Linked list with forward and backward pointers." },
+            { "title": "Circular Linked List", "content": "Linked list where the last node points to the first." }
+          ]
+        },
+        {
+          "title": "Stacks",
+          "content": "Stacks and their applications.",
+          "subtopics": [
+            { "title": "LIFO Principle", "content": "Last-In, First-Out principle." },
+            { "title": "Stack Operations", "content": "Push, pop, peek." }
+          ]
+        },
+        {
+          "title": "Queues",
+          "content": "Queues and their applications.",
+          "subtopics": [
+            { "title": "FIFO Principle", "content": "First-In, First-Out principle." },
+            { "title": "Queue Operations", "content": "Enqueue, dequeue." }
+          ]
+        },
+        {
+          "title": "Trees",
+          "content": "Trees and their types.",
+          "subtopics": [
+            { "title": "Binary Trees", "content": "Trees with at most two children." },
+            { "title": "Binary Search Trees", "content": "Binary trees with specific ordering." },
+            { "title": "Tree Traversal", "content": "Inorder, preorder, postorder." }
+          ]
+        },
+        {
+          "title": "Graphs",
+          "content": "Graphs and their representations.",
+          "subtopics": [
+            { "title": "Graph Representations", "content": "Adjacency matrix, adjacency list." },
+            { "title": "Graph Traversal", "content": "BFS, DFS." }
+          ]
+        },
+        {
+          "title": "Hashing",
+          "content": "Hashing techniques and hash functions.",
+          "subtopics": [
+            { "title": "Hash Functions", "content": "Different types of hash functions." },
+            { "title": "Collision Handling", "content": "Techniques for handling collisions." }
+          ]
+        },
+        {
+          "title": "Recursion",
+          "content": "Recursive algorithms and their applications.",
+          "subtopics": [
+            { "title": "Base Case", "content": "Stopping condition for recursion." },
+            { "title": "Recursive Step", "content": "Recursive call to the function." }
+          ]
+        },
+        {
+          "title": "Backtracking",
+          "content": "Backtracking algorithms and their applications.",
+          "subtopics": [
+            { "title": "N-Queens Problem", "content": "Example of a backtracking algorithm." },
+            { "title": "Sudoku Solver", "content": "Example of a backtracking algorithm." }
+          ]
+        },
+        {
+          "title": "Dynamic Programming",
+          "content": "Dynamic programming techniques and their applications.",
+          "subtopics": [
+            { "title": "Memoization", "content": "Top-down approach." },
+            { "title": "Tabulation", "content": "Bottom-up approach." }
+          ]
+        },
+        {
+          "title": "Greedy Algorithms",
+          "content": "Greedy algorithms and their applications.",
+          "subtopics": [
+            { "title": "Activity Selection Problem", "content": "Example of a greedy algorithm." },
+            { "title": "Huffman Coding", "content": "Data compression algorithm." }
+          ]
+        },
+        {
+          "title": "Divide and Conquer",
+          "content": "Divide and conquer algorithms and their applications.",
+          "subtopics": [
+            { "title": "Merge Sort", "content": "Sorting algorithm using divide and conquer." },
+            { "title": "Quick Sort", "content": "Sorting algorithm using divide and conquer." }
+          ]
+        },
+        {
+          "title": "Bit Manipulation",
+          "content": "Bit manipulation techniques and their applications.",
+          "subtopics": [
+            { "title": "Bitwise Operators", "content": "AND, OR, XOR, NOT, etc." },
+            { "title": "Bit Masking", "content": "Techniques for using bit masks." }
+          ]
+        },
+        {
+          "title": "Mathematical Algorithms",
+          "content": "Mathematical algorithms and their applications.",
+          "subtopics": [
+            { "title": "Euclidean Algorithm", "content": "Algorithm for finding GCD." },
+            { "title": "Primality Testing", "content": "Algorithms for testing if a number is prime." }
+          ]
+        },
+        {
+          "title": "String Algorithms",
+          "content": "String algorithms and their applications.",
+          "subtopics": [
+            { "title": "String Matching", "content": "Algorithms for finding patterns in strings." },
+            { "title": "String Manipulation", "content": "Techniques for manipulating strings." }
+          ]
+        },
+        {
+          "title": "Sorting Algorithms",
+          "content": "Various sorting algorithms and their efficiency.",
+          "subtopics": [
+            { "title": "Bubble Sort", "content": "Simple sorting algorithm." },
+            { "title": "Insertion Sort", "content": "Efficient for small datasets." },
+            { "title": "Merge Sort", "content": "Divide and conquer sorting algorithm." },
+            { "title": "Quick Sort", "content": "Efficient sorting algorithm with average case O(n log n)." }
+          ]
+        },
+        {
+          "title": "Searching Algorithms",
+          "content": "Different searching algorithms and their applications.",
+          "subtopics": [
+            { "title": "Linear Search", "content": "Simple search algorithm." },
+            { "title": "Binary Search", "content": "Efficient search algorithm for sorted data." }
+          ]
+        },
+        {
+          "title": "Advanced Data Structures",
+          "content": "Advanced data structures and their applications.",
+          "subtopics": [
+            { "title": "Heaps", "content": "Heap data structure and its properties." },
+            { "title": "Tries", "content": "Trie data structure and its applications." },
+            { "title": "Segment Trees", "content": "Segment tree data structure and its applications." }
+          ]
+        }
+      ]
+    }

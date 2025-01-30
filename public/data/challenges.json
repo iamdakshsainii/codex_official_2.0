@@ -1,0 +1,72 @@
+[
+      {
+        "id": 1,
+        "topic": "JavaScript Basics",
+        "question": "What is the correct way to declare a variable in JavaScript?",
+        "options": ["variable x;", "var x;", "x = variable;", "int x;"],
+        "correctAnswer": "var x;"
+      },
+      {
+        "id": 2,
+        "topic": "React Fundamentals",
+        "question": "What is the purpose of JSX in React?",
+        "options": ["To style components", "To write JavaScript logic", "To create HTML-like structures", "To manage state"],
+        "correctAnswer": "To create HTML-like structures"
+      },
+      {
+        "id": 3,
+        "topic": "CSS Styling",
+        "question": "Which CSS property is used to change the text color?",
+        "options": ["text-style", "font-color", "color", "text-color"],
+        "correctAnswer": "color"
+      },
+      {
+        "id": 4,
+        "topic": "Data Structures",
+        "question": "Which data structure follows the LIFO (Last-In, First-Out) principle?",
+        "options": ["Queue", "Stack", "Linked List", "Tree"],
+        "correctAnswer": "Stack"
+      },
+      {
+        "id": 5,
+        "topic": "Algorithms",
+        "question": "What is the time complexity of binary search?",
+        "options": ["O(n)", "O(n^2)", "O(log n)", "O(1)"],
+        "correctAnswer": "O(log n)"
+      },
+      {
+        "id": 6,
+        "topic": "Databases",
+        "question": "Which SQL keyword is used to retrieve data from a database?",
+        "options": ["INSERT", "UPDATE", "DELETE", "SELECT"],
+        "correctAnswer": "SELECT"
+      },
+      {
+        "id": 7,
+        "topic": "Networking",
+        "question": "What does HTTP stand for?",
+        "options": ["Hyper Text Transfer Protocol", "Hyper Text Transmission Protocol", "High-Level Text Transfer Protocol", "Hyperlink Text Transfer Protocol"],
+        "correctAnswer": "Hyper Text Transfer Protocol"
+      },
+      {
+        "id": 8,
+        "topic": "Operating Systems",
+        "question": "What is the main function of an operating system?",
+        "options": ["To run applications", "To manage hardware resources", "To provide a user interface", "All of the above"],
+        "correctAnswer": "All of the above"
+      },
+      {
+        "id": 9,
+        "topic": "Cloud Computing",
+        "question": "What does SaaS stand for?",
+        "options": ["Software as a Service", "System as a Service", "Storage as a Service", "Security as a Service"],
+        "correctAnswer": "Software as a Service"
+      },
+      {
+        "id": 10,
+        "topic": "Cybersecurity",
+        "question": "What is a common type of cyber attack that involves tricking users into revealing sensitive information?",
+        "options": ["DDoS", "Phishing", "SQL Injection", "Malware"],
+        "correctAnswer": "Phishing"
+      }
+    ]

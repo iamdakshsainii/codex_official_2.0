@@ -1,0 +1,59 @@
+{
+      "courseTitle": "Software Engineering",
+      "description": "A comprehensive course covering the principles and practices of software development.",
+      "topics": [
+        {
+          "title": "Introduction to Software Engineering",
+          "content": "Basic concepts and importance of software development.",
+          "subtopics": [
+            { "title": "Software Development Process", "content": "Phases of software development." },
+            { "title": "Software Engineering Ethics", "content": "Ethical considerations in software development." }
+          ]
+        },
+        {
+          "title": "Software Development Life Cycle (SDLC)",
+          "content": "Different models for software development.",
+          "subtopics": [
+            { "title": "Waterfall Model", "content": "Sequential development model." },
+            { "title": "Agile Model", "content": "Iterative and incremental development model." },
+            { "title": "Spiral Model", "content": "Risk-driven development model." }
+          ]
+        },
+        {
+          "title": "Requirements Engineering",
+          "content": "Gathering and documenting software requirements.",
+          "subtopics": [
+            { "title": "Requirements Elicitation", "content": "Techniques for gathering requirements." },
+            { "title": "Requirements Specification", "content": "Documenting requirements." },
+            { "title": "Requirements Validation", "content": "Ensuring requirements are correct and complete." }
+          ]
+        },
+        {
+          "title": "Software Design",
+          "content": "Designing the software architecture and components.",
+          "subtopics": [
+            { "title": "Architectural Design", "content": "High-level design of the system." },
+            { "title": "Detailed Design", "content": "Low-level design of components." },
+            { "title": "Design Patterns", "content": "Reusable solutions to common design problems." }
+          ]
+        },
+        {
+          "title": "Software Testing",
+          "content": "Testing the software to ensure quality.",
+          "subtopics": [
+            { "title": "Unit Testing", "content": "Testing individual components." },
+            { "title": "Integration Testing", "content": "Testing interactions between components." },
+            { "title": "System Testing", "content": "Testing the entire system." }
+          ]
+        },
+        {
+          "title": "Software Maintenance",
+          "content": "Maintaining and evolving the software after deployment.",
+          "subtopics": [
+            { "title": "Corrective Maintenance", "content": "Fixing bugs." },
+            { "title": "Adaptive Maintenance", "content": "Adapting to new environments." },
+            { "title": "Perfective Maintenance", "content": "Improving performance and features." }
+          ]
+        }
+      ]
+    }

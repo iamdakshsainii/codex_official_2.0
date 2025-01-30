@@ -1,0 +1,57 @@
+{
+      "courseTitle": "Operating Systems",
+      "description": "A comprehensive course covering the core principles of operating systems.",
+      "topics": [
+        {
+          "title": "Introduction to Operating Systems",
+          "content": "Basic concepts and functions of an operating system.",
+          "subtopics": [
+            { "title": "Types of Operating Systems", "content": "Batch, time-sharing, real-time, etc." },
+            { "title": "OS Structures", "content": "Kernel, shell, system calls, etc." }
+          ]
+        },
+        {
+          "title": "Process Management",
+          "content": "Managing processes and their execution.",
+          "subtopics": [
+            { "title": "Process Scheduling", "content": "Algorithms like FCFS, SJF, Priority, Round Robin." },
+            { "title": "Process Synchronization", "content": "Semaphores, mutexes, monitors." },
+            { "title": "Deadlocks", "content": "Deadlock prevention, detection, and recovery." }
+          ]
+        },
+        {
+          "title": "Memory Management",
+          "content": "Techniques for managing memory.",
+          "subtopics": [
+            { "title": "Paging", "content": "Dividing memory into fixed-size blocks." },
+            { "title": "Segmentation", "content": "Dividing memory into logical segments." },
+            { "title": "Virtual Memory", "content": "Techniques for using secondary storage as memory." }
+          ]
+        },
+        {
+          "title": "File Systems",
+          "content": "Organization and management of files.",
+          "subtopics": [
+            { "title": "File Organization", "content": "Sequential, indexed, direct." },
+            { "title": "File Access Methods", "content": "Sequential, direct, indexed." },
+            { "title": "File System Implementation", "content": "Directory structures, file allocation methods." }
+          ]
+        },
+        {
+          "title": "Input/Output Management",
+          "content": "Managing I/O devices and operations.",
+          "subtopics": [
+            { "title": "I/O Techniques", "content": "Polling, interrupts, DMA." },
+            { "title": "Device Drivers", "content": "Software interface to hardware devices." }
+          ]
+        },
+        {
+          "title": "Virtualization",
+          "content": "Concepts and techniques of virtualization.",
+          "subtopics": [
+            { "title": "Types of Virtualization", "content": "Hardware, software, full, para." },
+            { "title": "Virtual Machine Monitors", "content": "Hypervisors and their functions." }
+          ]
+        }
+      ]
+    }

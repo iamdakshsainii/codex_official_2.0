@@ -1,0 +1,57 @@
+{
+      "courseTitle": "Algorithms",
+      "description": "A comprehensive course covering fundamental algorithms and their applications.",
+      "topics": [
+        {
+          "title": "Introduction to Algorithms",
+          "content": "Basic concepts and importance of algorithms in computer science.",
+          "subtopics": [
+            { "title": "Algorithm Analysis", "content": "Time and space complexity analysis." },
+            { "title": "Asymptotic Notations", "content": "Big O, Big Omega, and Big Theta notations." }
+          ]
+        },
+        {
+          "title": "Sorting Algorithms",
+          "content": "Various sorting algorithms and their efficiency.",
+          "subtopics": [
+            { "title": "Bubble Sort", "content": "Simple sorting algorithm." },
+            { "title": "Insertion Sort", "content": "Efficient for small datasets." },
+            { "title": "Merge Sort", "content": "Divide and conquer sorting algorithm." },
+            { "title": "Quick Sort", "content": "Efficient sorting algorithm with average case O(n log n)." }
+          ]
+        },
+        {
+          "title": "Searching Algorithms",
+          "content": "Different searching algorithms and their applications.",
+          "subtopics": [
+            { "title": "Linear Search", "content": "Simple search algorithm." },
+            { "title": "Binary Search", "content": "Efficient search algorithm for sorted data." }
+          ]
+        },
+        {
+          "title": "Graph Algorithms",
+          "content": "Algorithms for working with graphs.",
+          "subtopics": [
+            { "title": "Breadth-First Search (BFS)", "content": "Graph traversal algorithm." },
+            { "title": "Depth-First Search (DFS)", "content": "Graph traversal algorithm." },
+            { "title": "Dijkstra's Algorithm", "content": "Shortest path algorithm." }
+          ]
+        },
+        {
+          "title": "Dynamic Programming",
+          "content": "Technique for solving optimization problems.",
+          "subtopics": [
+            { "title": "Memoization", "content": "Top-down approach." },
+            { "title": "Tabulation", "content": "Bottom-up approach." }
+          ]
+        },
+        {
+          "title": "Greedy Algorithms",
+          "content": "Algorithms that make locally optimal choices.",
+          "subtopics": [
+            { "title": "Activity Selection Problem", "content": "Example of a greedy algorithm." },
+            { "title": "Huffman Coding", "content": "Data compression algorithm." }
+          ]
+        }
+      ]
+    }

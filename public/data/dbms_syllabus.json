@@ -1,0 +1,56 @@
+{
+      "courseTitle": "Database Management Systems",
+      "description": "A comprehensive course covering the fundamentals of database management systems.",
+      "topics": [
+        {
+          "title": "Introduction to DBMS",
+          "content": "Overview of database systems, their purpose, and advantages.",
+          "subtopics": [
+            { "title": "Basic Concepts", "content": "Data, information, database, DBMS, etc." },
+            { "title": "Database Users", "content": "Different types of users and their roles." }
+          ]
+        },
+        {
+          "title": "Relational Model",
+          "content": "Understanding the relational model and its components.",
+          "subtopics": [
+            { "title": "Relational Algebra", "content": "Basic operations like selection, projection, join, etc." },
+            { "title": "Relational Calculus", "content": "Tuple and domain relational calculus." }
+          ]
+        },
+        {
+          "title": "SQL",
+          "content": "Structured Query Language for database interaction.",
+          "subtopics": [
+            { "title": "Basic SQL Queries", "content": "SELECT, INSERT, UPDATE, DELETE statements." },
+            { "title": "Advanced SQL Queries", "content": "Subqueries, joins, aggregate functions, etc." }
+          ]
+        },
+        {
+          "title": "Database Design",
+          "content": "Principles of database design and normalization.",
+          "subtopics": [
+            { "title": "Entity-Relationship Model", "content": "ER diagrams and their components." },
+            { "title": "Normalization", "content": "1NF, 2NF, 3NF, BCNF." }
+          ]
+        },
+        {
+          "title": "Transaction Management",
+          "content": "Understanding transactions and concurrency control.",
+          "subtopics": [
+            { "title": "ACID Properties", "content": "Atomicity, Consistency, Isolation, Durability." },
+            { "title": "Concurrency Control", "content": "Locking, timestamping, etc." }
+          ]
+        },
+        {
+          "title": "NoSQL Databases",
+          "content": "Introduction to NoSQL databases and their types.",
+          "subtopics": [
+            { "title": "Key-Value Stores", "content": "Examples like Redis, Memcached." },
+            { "title": "Document Databases", "content": "Examples like MongoDB, Couchbase." },
+            { "title": "Column-Family Stores", "content": "Examples like Cassandra, HBase." },
+            { "title": "Graph Databases", "content": "Examples like Neo4j." }
+          ]
+        }
+      ]
+    }
